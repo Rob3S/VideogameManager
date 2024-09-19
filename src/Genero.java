@@ -1,0 +1,3 @@
+public enum Genero {
+    ACCION, TERROR, ESTRATEGIA, ROL, AVENTURA, CARRERAS, DEPORTES
+}
